@@ -31,18 +31,6 @@
 
 ## 在线体验
 
-**首页链接：** [https://codeape.cn](https://codeape.cn)
-
-**后台链接：** [https://admin.codeape.cn](https://admin.codeape.cn)
-
-
-
-**测试账号：**`test@qq.com`
-
-**测试密码：**`test123`
-
-可登录后台查看。
-
 ## 技术介绍
 
 ### 后端
@@ -239,15 +227,11 @@ IDEA、WebStorm、HeidiSQL、RDM、XShell、Xftp
 
 ## 项目截图
 
-![1](https://apecode.oss-cn-chengdu.aliyuncs.com/article/0d1983d1fefa356ae214e886f5c685c2.png)
-
-![2](https://apecode.oss-cn-chengdu.aliyuncs.com/article/d3bd777837b7f98bdfd013533889235f.png)
 
 
 
 ## 部署教程
 
-**博客部署教程：**[https://codeape.cn/article/da02991d5130234a](https://codeape.cn/article/da02991d5130234a)
 
 ## 开发总结
 
